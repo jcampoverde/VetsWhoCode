@@ -4,12 +4,12 @@ body {
     height: 100%;
     font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #f3f3f3;
+    background-color: #322a41;
 }
 
 html {
     width: 100%;
-    height: 100%;
+    height: 100%;a
 }
 
 h1,
@@ -49,7 +49,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #322a41;
 }
 
 .light {
@@ -136,8 +136,8 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../images/planes.jpg) no-repeat bottom center scroll;
-    background-color: #000;
+    background: url(../img/b&w1.jpg) no-repeat bottom center scroll;
+    background-color: #2d253a;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -256,7 +256,7 @@ a:focus {
     padding: 0;
     color: #fff;
     background: url(../images/b&w1.jpg) no-repeat bottom center scroll;
-    background-color: #000;
+    background-color: #2d253a;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -270,17 +270,17 @@ a:focus {
 }
 
 #about , #contact{
-    color: #000;
+    color: #dbdbdb;
 }
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #322a41;
 }
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        padding-top: 100px;
     }
 
     .portfolio-section {
